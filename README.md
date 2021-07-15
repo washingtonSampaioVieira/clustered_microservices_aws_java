@@ -11,7 +11,7 @@
 
 ## Infra do projeto
 
-![Restaurante](https://github.com/washingtonSampaioVieira/clustered_microservices_aws_java/infrastructure/infra_projeto.PNG "Plataforma web do Restaurante")
+![Infra](https://raw.githubusercontent.com/washingtonSampaioVieira/clustered_microservices_aws_java/main/infrastructure/infra_projeto.PNG "Planejamento da Infraestrutura do projeto")
 
 ## Lista de tecnologias Java:
 - Junit
